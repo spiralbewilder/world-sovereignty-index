@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="World Sovereignty Index">
+  <rect width="64" height="64" rx="2" fill="#0C2340"/>
+  <circle cx="32" cy="32" r="22" stroke="#C9A227" stroke-width="1.25" opacity="0.85"/>
+  <circle cx="32" cy="32" r="15" stroke="#1AA394" stroke-width="1.1" opacity="0.9"/>
+  <ellipse cx="32" cy="32" rx="22" ry="8" stroke="#C9A227" stroke-width="0.7" opacity="0.45"/>
+  <path d="M32 10v44M10 32h44" stroke="#C9A227" stroke-width="0.6" opacity="0.35"/>
+  <circle cx="32" cy="32" r="2.4" fill="#1AA394"/>
+  <path d="M32 18.5V32" stroke="#F6F3EC" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="32" cy="18.5" r="1.6" fill="#F6F3EC"/>
+</svg>
