@@ -32,7 +32,8 @@ window.WSI_FACTORS = [
       ["f2-3", "2.3 Off-budget implementers do not substitute for ministries"],
       ["f2-4", "2.4 Dual-key spending / countersignature"],
       ["f2-5", "2.5 Payment-rail and reserve-instrument exposure as extra-territorial veto"],
-      ["f2-6", "2.6 Tax, SOE, and natural-resource revenue not extra-territorially captured"]
+      ["f2-6", "2.6 Tax, SOE, and natural-resource revenue not extra-territorially captured"],
+      ["f2-7", "2.7 Monetary principal of legal tender and lender-of-last-resort is domestic"]
     ]
   },
   {
@@ -86,7 +87,8 @@ window.WSI_FACTORS = [
       ["f5-3", "5.3 Foreign security assistance does not create dual-key command"],
       ["f5-4", "5.4 Extra-territorial enforcement inside the territory"],
       ["f5-5", "5.5 Intelligence liaison substituting for domestic targeting authority"],
-      ["f5-6", "5.6 Border, customs, airspace, territorial sea"]
+      ["f5-6", "5.6 Border, customs, airspace, territorial sea"],
+      ["f5-7", "5.7 Territorial-asset concession without extra-territorial security or exclusion use"]
     ]
   },
   {
