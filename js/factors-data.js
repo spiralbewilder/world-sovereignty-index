@@ -148,7 +148,7 @@ window.WSI_FACTORS = [
     scored: false,
     paragraphs: [
       "Factor 9 occupies the same product role as Informal Justice in the Rule of Law Index: a real institutional fact that is collected and is not aggregated into cross-country scores, because mixing occupied, partitioned, unrecognized, and customary systems with UN-member principals would make rankings uninterpretable. The construct is different. WJP Factor 9 concerns informal justice. WSI Factor 9 concerns informal, occupied, and contested authority performing public-choice functions.",
-      "The 2026 edition records Factor 9 as unknown for both published countries. It is not used to compute overall scores or ranks."
+      "The 2026 edition records Factor 9 as unknown for published countries. It is not used to compute overall scores or ranks."
     ],
     subs: [
       ["f9-1", "9.1 Customary/traditional authority performing public-choice functions"],
